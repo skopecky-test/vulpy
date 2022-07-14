@@ -18,3 +18,5 @@ def cmd_api_client(username):
 
 if __name__ == '__main__':
     cmd_api_client()
+
+    test
